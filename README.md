@@ -37,6 +37,8 @@ This repository features a Netflix recommendation system that suggests shows sim
 
 ## Example
 To see the recommendation system in action, execute the `tfidf.py` script with a show title input to get similar recommendations.
+<img width="447" src="https://user-images.githubusercontent.com/103683812/163730358-bb52fc85-d494-47b7-afb6-40abe4734bb7.png">
+
 
 ## Contributing
 Contributions are welcome! Please open issues or submit pull requests for any suggestions or improvements.
